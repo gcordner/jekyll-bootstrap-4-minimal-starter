@@ -9,3 +9,6 @@ url:
 permalink: :title/
 sass:
   sass_dir: css
+
+plugins:
+  - jekyll-seo-tag
