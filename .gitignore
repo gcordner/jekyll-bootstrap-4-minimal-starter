@@ -4,4 +4,8 @@ css/custom/google-chrome-stable_current_amd64.deb
 index-old.html
 gabebartalos.sublime-project
 gabebartalos.sublime-workspace
-
+.dropbox
+.DS_Store
+"Icon\r"
+_site/.DS_Store
+_site/css/.DS_Store

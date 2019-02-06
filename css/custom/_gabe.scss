@@ -63,14 +63,30 @@ h2 {font-weight: 100;}
 
 .skinned {
 	background-image: url("/images/Plates_Halftone.jpg");
-	background-repeat: no-repeat;
 	background-attachment: fixed;
 	margin-bottom: -20px;
+	background-size: 100% auto;
 }
 
-#infobox {
+.streetdogs {
+	background-image: url("/images/streetdogs/SD_Halftone.jpg");
+	background-attachment: fixed;
+	margin-bottom: -20px;
+	background-size: 100% auto;
+}
+
+.bernard {
+	background-image: url("/images/stbernard/underwater.jpg");
+	background-attachment: fixed;
+	margin-bottom: -20px;
+	background-size: 100% auto;
+}
+
+
+
+/*#infobox {
 	position: absolute;
 	bottom: 35px;
 	left: 0;
-}
+}*/
 
